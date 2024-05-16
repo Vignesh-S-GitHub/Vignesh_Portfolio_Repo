@@ -1,10 +1,10 @@
-## Welcome to My Data Science Journey!   
+##Welcome to My Data Science Journey!   
 
 Hi there!  I'm a software engineer with a growing passion for data analysis and data science. This repository serves as my playground to explore this exciting field, where I'll be storing various projects I create along the way.  
 
 This README file provides a quick overview of what you'll find here. ✨
 
-**Getting Started (Software Engineer Hat On) ‍**
+**Getting Started (Software Engineer Hat On)**
 
 *This repository follows standard Git practices.*
 
@@ -13,7 +13,7 @@ This README file provides a quick overview of what you'll find here. ✨
 * **Pull Requests:** Feel free to submit pull requests for any contributions or suggestions.
 
 
-**Projects (Data Enthusiast Hat On) **
+**Projects (Data Enthusiast Hat On)**
 
 This repository will house a variety of projects encompassing:
 
