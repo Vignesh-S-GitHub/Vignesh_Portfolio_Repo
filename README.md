@@ -1,4 +1,4 @@
-##Welcome to My Data Science Journey!   
+## Welcome to My Data Science Journey!   
 
 Hi there!  I'm a software engineer with a growing passion for data analysis and data science. This repository serves as my playground to explore this exciting field, where I'll be storing various projects I create along the way.  
 
